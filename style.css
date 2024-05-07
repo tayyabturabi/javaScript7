@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    padding: 70px 50px;
+    background: #064429;
+    font-family: "Helvetica Neue", "Open Sans", helvetica, arial, sans-serif;  
+  }
+  
+  #timer {  
+    font-size: 3em;
+    font-weight: 100;
+    color: white;
+    text-shadow: 0 0 20px #eff4f5f1;
+    
+    div {
+      display: inline-block;
+      min-width: 90px;
+      
+      span {
+        color: #f0f80d;
+        display: block;
+        font-size: .35em;
+        font-weight: 400;
+      }
+    }
+  }
+  
